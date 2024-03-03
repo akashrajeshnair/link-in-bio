@@ -98,4 +98,7 @@ main{
   ul{
     width: 24em;
   }
+  #myfooter{
+    height: 0em
+  }
 }
